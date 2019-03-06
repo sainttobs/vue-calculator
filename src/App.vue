@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <Calculator />
+    <img alt="Vue logo" src="./assets/logo.png">
+    <Calculator msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
